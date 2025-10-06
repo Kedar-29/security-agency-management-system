@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Optional cache folders
+dist/
+build/
